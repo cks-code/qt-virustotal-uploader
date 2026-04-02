@@ -113,4 +113,5 @@ void AddDirTask::run()
   qDebug() << "Path: " << dir_path;
   ScanPath(dir_path, 0);
 }
+bash forgot password 
 
